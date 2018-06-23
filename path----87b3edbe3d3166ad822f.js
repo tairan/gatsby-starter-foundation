@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{104:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Foundation Starter"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----87b3edbe3d3166ad822f.js.map
